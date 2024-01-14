@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **madhurpgarg/madhurpgarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm First_Name Last_Name</h1>
+<h1 align="center">Hi 👋, I'm Madhur Garg</h1>
 <h3 align="center">Passionate about building distributed softwares</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhurpgarg&label=Profile%20views&color=0e75b6&style=flat" alt="madhurpgarg" /> </p>
